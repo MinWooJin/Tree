@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BST">
+</Property><Property Name="솔루션 파일" Value="C:\Users\user\Desktop\진민우\화일구조\b star 트리\BST\BST.sln">
+</Property><Property Name="사용자 옵션 파일" Value="C:\Users\user\Desktop\진민우\화일구조\b star 트리\BST\BST.suo">
+</Property><Property Name="Date" Value="2013년 4월 26일 금요일">
+</Property><Property Name="Time" Value="오후 19:57">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BST.sln" Description="파일을 C:\Users\user\Desktop\진민우\화일구조\b star 트리\BST\BST.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="BST.suo" Description="파일을 C:\Users\user\Desktop\진민우\화일구조\b star 트리\BST\BST.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="BST" Source="BST\BST.vcproj" Description="Converting project file 'C:\Users\user\Desktop\진민우\화일구조\b star 트리\BST\BST\BST.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BST" Source="BST\BST.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="BST" Source="BST\BST.vcproj" Description="Done converting to new project file 'C:\Users\user\Desktop\진민우\화일구조\b star 트리\BST\BST\BST.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BST" Source="BST\BST.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BST.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="BST.sln" Description="Converted">
+</Event></UpgradeLog>
